@@ -97,11 +97,8 @@ prompts/
 ## ⚙️ 설정
 
 ### API 설정 (config.py)
-```python
-AX4_API_BASE_URL = "https://guest-api.sktax.chat/v1"
-AX4_API_KEY = "sktax-XyeKFrq67ZjS4EpsDlrHHXV8it"  # 무료 게스트 키
-AX4_MODEL = "ax4"
-```
+[A.X 4.0 API 문서 참고](https://github.com/SKT-AI/A.X-4.0/blob/main/apis/README.md)
+
 
 ### 생성 모드
 - `--fast`: 고속 (temperature=0.7, max_tokens=12288)
