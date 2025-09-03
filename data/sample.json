@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "nationality": "영국",
+      "artist_name": "존 스미스", 
+      "artist_name_eng": "John SMITH",
+      "artist_info": "{\"birth\":\"1985\",\"exhibits\":[\"2024 - Modern Art Gallery. London.\",\"2023 - Contemporary Works. New York.\"],\"awards\":[\"2023 - Best Artist Award\",\"2022 - Excellence in Craft\"]}",
+      "title": "시간의 흔적",
+      "title_eng": "Traces of Time", 
+      "size": "120×80×10cm",
+      "weight": "8",
+      "year": "2024",
+      "materials": "캔버스, 아크릴",
+      "artist_note": "이 작품은 시간의 흐름과 인간의 기억을 탐구합니다. 반복적인 붓질을 통해 시간의 층위를 표현하였으며, 각 층은 서로 다른 순간을 담고 있습니다. 작업 과정에서 느끼는 명상적 경험이 작품에 고스란히 녹아들어 있습니다.",
+      "description": "시간의 흐름을 시각화한 추상 회화로, 반복적 기법을 통해 순간들의 중첩을 표현한다."
+    },
+    {
+      "nationality": "한국",
+      "artist_name": "김예술", 
+      "artist_name_eng": "KIM Yeasul",
+      "artist_info": "{\"birth\":\"1990\",\"exhibits\":[\"2023 - Seoul Contemporary Art Fair. Korea.\",\"2022 - Busan Art Gallery. Korea.\"],\"awards\":[\"2023 - Rising Artist Award\",\"2021 - Young Creator Prize\"]}",
+      "title": "도시의 리듬",
+      "title_eng": "Urban Rhythm", 
+      "size": "100×150×5cm",
+      "weight": "12",
+      "year": "2023",
+      "materials": "혼합매체, 철",
+      "artist_note": "현대 도시의 빠른 변화와 그 속에서 살아가는 사람들의 이야기를 담았습니다. 금속과 혼합재료를 통해 도시의 차가움과 따뜻함을 동시에 표현하고자 했습니다.",
+      "description": "도시 환경의 복합적 감정을 금속 조형을 통해 표현한 설치 작품."
+    }
+  ]
+}

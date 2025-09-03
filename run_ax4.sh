@@ -19,7 +19,7 @@ fi
 
 # uv로 Python 실행
 echo "🚀 uv 환경에서 A.X 4.0 API 기반 Q&A 생성 시작..."
-uv run python main_ax4.py --fast
+uv run python main.py --fast
 
 # 실행 결과 확인
 if [ $? -eq 0 ]; then

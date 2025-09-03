@@ -20,9 +20,9 @@ def main():
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 사용 예시:
-  python main_ax4.py                # 기본 고속 모드
-  python main_ax4.py --fast         # 고속 모드 (빠른 생성)
-  python main_ax4.py --precise      # 정밀 모드 (높은 품질)
+  python main.py                    # 기본 고속 모드
+  python main.py --fast             # 고속 모드 (빠른 생성)
+  python main.py --precise          # 정밀 모드 (높은 품질)
 """
     )
     
