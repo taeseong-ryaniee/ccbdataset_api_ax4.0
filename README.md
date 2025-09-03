@@ -139,7 +139,6 @@ MIT 라이선스
 
 ## 📞 지원
 
-- [GitHub Issues](https://github.com/your-repo/issues)
 - [A.X 4.0 API 문서](https://github.com/SKT-AI/A.X-4.0/blob/main/apis/README.md)
 
 
